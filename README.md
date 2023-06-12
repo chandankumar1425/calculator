@@ -1,2 +1,1 @@
-# calculator
-Javascript Calculator
+![Alt text](image.png)
